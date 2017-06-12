@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechDemo", "TextToSpeechDemo.csproj", "{D0FB7371-B235-6929-5F85-D47235424E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechDemo.Editor", "TextToSpeechDemo.Editor.csproj", "{C87C71AB-0BC2-4EDC-C619-A833BF7C40C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FB7371-B235-6929-5F85-D47235424E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FB7371-B235-6929-5F85-D47235424E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FB7371-B235-6929-5F85-D47235424E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FB7371-B235-6929-5F85-D47235424E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87C71AB-0BC2-4EDC-C619-A833BF7C40C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87C71AB-0BC2-4EDC-C619-A833BF7C40C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87C71AB-0BC2-4EDC-C619-A833BF7C40C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87C71AB-0BC2-4EDC-C619-A833BF7C40C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
